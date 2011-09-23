@@ -1,21 +1,21 @@
 = CloudCache - caching in the cloud
 
-- Infinite size cache in the cloud
+- Virtually Infinite size cache in the cloud
 - High performance
 - Introspection (memcached doesn't have it)
 - No maintenance
 - No worries
 - Free 5MB Cache!
 
-http://www.quetzall.com/
+http://www.getCloudCache.com/
 
 == DESCRIPTION:
 
-Instant memcached, no servers required! See www.quetzall.com for more information.
+Instant memcached, no servers required! See www.getCloudCache.com for more information.
 
 == INSTALL:
 
-Get your CloudCache credentials for free at www.quetzall.com, then:
+Get your CloudCache credentials for free at www.getCloudCache.com, then:
 
 	var cc = require('cloudcache').createCache(CC_ACCESS_KEY, CC_SECRET_KEY);
 
